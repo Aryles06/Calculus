@@ -3,4 +3,9 @@
     <string name="debutant">Débutant</string>
     <string name="Intermédiaire">Intermédiaire</string>
     <string name="Avancé">Avancé</string>
+    <string name="quit">vous avez quitté</string>
+    <string name="bravo">Bravo!</string>
+    <string name="ressai">Ressayez</string>
+    <string name="gen">générer</string>
+
 </resources>
